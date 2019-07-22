@@ -8,7 +8,9 @@
 
 ----
 
-*The texts and files of the actual repository were hosted on a server that not functional anymore (as of July 2019; http://titiagebuis.eu). As the associated Matlab code was useful for generating images used as stimuli in cognitive psychology research studies, I made these scripts dowloadable again. If you are one of the original author, please consider managing this repository under your own account.*
+*The texts and files of the actual repository were hosted on a server that is not functional anymore (as of July 2019; http://titiagebuis.eu). As the associated Matlab code was useful for generating images used as stimuli in cognitive psychology research studies, I made these scripts dowloadable again. I used them for helping in designing the material of Roquet & Lemaire experiment (2018; doi:10.1515/psych-2018-0011).
+https://www.degruyter.com/downloadpdf/j/psych.2018.1.issue-1/psych-2018-0011/psych-2018-0011.pdf
+ If you are one of the original authors of the Matlab scripts, please consider managing this repository under your own account as I have not conceived the concept nor wote the code.*
 
 ---
 
