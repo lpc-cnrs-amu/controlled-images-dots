@@ -1,7 +1,10 @@
+
 # Project COMPDOT
 **Generating nonsymbolic number stimuli.**
 
-(*from T. Gebuis &amp; B. Reynvoet, published in Behavioral Research Methods, 43, 2011*)
+*From T. Gebuis &amp; B. Reynvoet, published in Behavioral Research Methods, 43, 2011*
+*Full text available at https://www.researchgate.net/publication/51069992_Generating_non-symbolic_number_stimuli*
+
 
 ----
 
@@ -17,12 +20,11 @@ Studies investigating nonsymbolic numbers (e.g., dot arrays) are confronted with
 
 **Original webpage information**
 
-Script to create non-symbolic number stimuli Script is used to create the stimuli presented in: 
+Script to create non-symbolic number stimuli Script is used to create the stimuli presented in:
 Gebuis, T. & Reynvoet, B. (2011). Generating non-symbolic number stimuli. *Behavior and Research Methods*.
 
- - Version January 18th 2012: comp_dots_version180112.m
-To control for the visual cues the previous files created 4 images per number (larger number has a larger average dot diameter and a larger convex hull, (2) larger number has a larger average dot diameter but smaller convex hull, (3) larger number has a smaller average dot diameter and a smaller convex hull and (4) larger number has a smaller average dot diameter but larger convex hull. The current file randomly chooses one of the four options for each trial. Consequently only one image for each number is created. 
- - Version May 20th 2011: comp_dots_version200511.m
+ - Version January 18th 2012: [comp_dots_version180112.m](https://github.com/sedufau/compdot/blob/master/comp_dots_version180112.m)
+To control for the visual cues the previous files created 4 images per number (larger number has a larger average dot diameter and a larger convex hull, (2) larger number has a larger average dot diameter but smaller convex hull, (3) larger number has a smaller average dot diameter and a smaller convex hull and (4) larger number has a smaller average dot diameter but larger convex hull. The current file randomly chooses one of the four options for each trial. Consequently only one image for each number is created.
+ - Version May 20th 2011: [comp_dots_version200511.m](https://github.com/sedufau/compdot/blob/master/comp_dots_version200511.m)
 This version generates an additional output file called congr.txt. Here information is given about the congruency between the visual parameters and target number. For details see script.
- - Original version used in the manuscript: comp_dots_version090511.m
-
+ - Original version used in the manuscript: [comp_dots_version090511.m](https://github.com/sedufau/compdot/blob/master/comp_dots_version090511.m)
