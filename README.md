@@ -1,21 +1,22 @@
 
-# Project COMPDOT
-**Generating nonsymbolic number stimuli.**
+# COMPDOT : generate controlled images of dots
 
-*From T. Gebuis &amp; B. Reynvoet, published in Behavioral Research Methods, 43, 2011*
+
+*From **Generating nonsymbolic number stimuli**, T. Gebuis &amp; B. Reynvoet, published in Behavioral Research Methods, 43, 2011*.
 *Full text available at https://www.researchgate.net/publication/51069992_Generating_non-symbolic_number_stimuli*
 
 
 ----
 
+![Output image consisting of collection of dots of controlled properties such as N or surface.](https://github.com/sedufau/compdot/blob/master/example_image_generated_small.png)
+
+Output image consisting of collection of dots of controlled properties such as N or surface.
+
 *The texts and files of the actual repository were hosted on a server that is not functional anymore (as of July 2019; http://titiagebuis.eu). As the associated Matlab code was useful for generating images used as stimuli in cognitive psychology research studies, I made these scripts dowloadable again. I used them for helping in designing the material of Roquet & Lemaire experiment (2018; doi:10.1515/psych-2018-0011).
 https://www.degruyter.com/downloadpdf/j/psych.2018.1.issue-1/psych-2018-0011/psych-2018-0011.pdf
  If you are one of the original authors of the Matlab scripts, please consider managing this repository under your own account as I have not conceived the concept nor wote the code.*
 
-
-
-![Output image consisting of collection of dots of controlled properties such as N or surface.](https://github.com/sedufau/compdot/blob/master/example_image_generated_small.png)
-
+----
 
 **Abstract**
 
