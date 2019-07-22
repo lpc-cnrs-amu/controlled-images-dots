@@ -14,6 +14,7 @@ https://www.degruyter.com/downloadpdf/j/psych.2018.1.issue-1/psych-2018-0011/psy
 
 
 <p align="center">
+<img src="https://github.com/sedufau/compdot/blob/master/example_image_generated_small.png">
 ![Output image consisting of collection of dots of controlled properties such as N or surface.](https://github.com/sedufau/compdot/blob/master/example_image_generated_small.png)
 </p>
 
